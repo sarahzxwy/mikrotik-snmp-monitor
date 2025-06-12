@@ -1,4 +1,4 @@
-# 📡 Mikrokit - Tráfego da Interface em Tempo Real 
+# 📡 Mikrotik - Tráfego da Interface em Tempo Real 
 
 Este Sistema tem como objetivo exibir **em tempo real** o **tráfego de rede (Tx/Rx)** de uma **interface específica de um roteador Mikrotik**, por meio de uma interface web simples e intuitiva.
 
