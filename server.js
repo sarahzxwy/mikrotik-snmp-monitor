@@ -22,7 +22,7 @@ function formatarVelocidade(bitsPorSegundo) {
 
 const host = '192.168.88.1';
 const community = 'public';
-const interfaceIndex = '2'; 
+const interfaceIndex = '4'; 
 
 const oidRx = `1.3.6.1.2.1.31.1.1.1.6.${interfaceIndex}`;
 const oidTx = `1.3.6.1.2.1.31.1.1.1.10.${interfaceIndex}`;
